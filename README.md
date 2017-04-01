@@ -10,3 +10,6 @@
 - before starting on CSS check this: http://cssguidelin.es/
 
 ## JavaScript
+
+
+## Performance
