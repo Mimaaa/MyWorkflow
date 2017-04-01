@@ -21,4 +21,4 @@ Before starting on JavaScript:
 - Google Speed Insights
 
 # Anything essential that's missing?
-Please let me know. It's always nice to fresh some up on some knowledge before needing to change certain things afterwards.
+Please let me know. It's always nice to fresh up on some knowledge before needing to change certain things afterwards.
