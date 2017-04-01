@@ -1,15 +1,24 @@
 # MyWorkflow
 
 ## Git(hub)
-
+- [Basic Git(hub) usage](https://www.youtube.com/watch?v=cd-g06nA3ns&app=desktop)
 
 ## HTML
+Before starting on HTML:
 
 
 ## CSS
-- before starting on CSS check this: http://cssguidelin.es/
+Before starting on CSS:
+- http://cssguidelin.es/
+- https://www.smashingmagazine.com/2013/08/semantic-css-with-intelligent-selectors/
 
 ## JavaScript
-
+Before starting on JavaScript:
+- http://youmightnotneedjs.com/
 
 ## Performance
+- Lighthouse
+- Google Speed Insights
+
+# Anything essential that's missing?
+Please let me know. It's always nice to fresh some up on some knowledge before needing to change certain things afterwards.
