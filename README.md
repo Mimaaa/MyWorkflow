@@ -2,7 +2,6 @@
 
 ## Git(hub)
 - [Basic Git(hub) usage](https://www.youtube.com/watch?v=cd-g06nA3ns&app=desktop)
-- test
 
 ## HTML
 Before starting on HTML:
