@@ -20,6 +20,11 @@ Resources on JavaScript:
 - https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
 - http://youmightnotneedjs.com/
 
+## NodeJS
+Resources on NodeJS:
+- https://github.com/felixge/node-style-guide
+- https://github.com/substack/stream-handbook#introduction
+
 ## Performance
 Resources on Performance:
 - Lighthouse
