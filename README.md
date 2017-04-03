@@ -26,4 +26,4 @@ Resources on Performance:
 - Google Speed Insights
 
 # Anything essential that's missing?
-Please let me know. It's always nice to fresh up on some knowledge before needing to change certain things afterwards.
+Please let me know. It's always nice to fresh up on some knowledge instead of needing to change all kinds of stuff after building something.
