@@ -14,6 +14,7 @@ Before starting on CSS:
 
 ## JavaScript
 Before starting on JavaScript:
+- https://github.com/ryanmcdermott/clean-code-javascript
 - http://youmightnotneedjs.com/
 
 ## Performance
