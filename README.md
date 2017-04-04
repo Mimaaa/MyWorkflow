@@ -7,6 +7,7 @@ Resources on Git(hub):
 ## HTML
 Resources on HTML:
 - http://htmlreference.io/
+- LOL
 
 ## CSS
 Resources on CSS:
